@@ -1,0 +1,406 @@
+/*GHIBLI*/
+#ghiblilogo{
+    background-image: url(img/Studio-Ghibli-Logo.jpg);
+    width: 1892px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 13px rgba(0, 0, 0, 0.529);
+    background-size: cover;
+    background-position: center;
+   
+    }
+    #body-ghibli{
+    background-color: #71d9ff80;
+    }
+    #main-ghibli{
+    background-color: #00fff7;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    box-shadow: 10px 10px 13px rgba(0, 0, 0, 0.422);
+    margin-top: 10px;
+    }
+    #h1-filmesghibli{
+        color: rgb(93, 174, 174);
+    }
+   .div-ghibli{
+    cursor: pointer;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        border: 10px solid rgb(34, 94, 224);
+   }
+    a{
+           text-decoration: none;
+           font-size: 20px;
+           color: blue;
+        }
+        a:active{
+            color: green;
+        }
+        a:hover{
+            text-decoration: underline;
+        }
+        p{
+            font-size: 20px;
+            color: aliceblue;
+            background-color: rgba(0, 0, 0, 0.482);
+            display: inline;
+        }
+        .h1-ghibli{
+            color: rgb(255, 255, 255);
+            font-size: 40px;
+            margin-top: -10px;
+        }
+        #nausicaa{
+            background-image: url(../img/nausicaa-della-valle-del-vento-2.0.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #nausicaa:hover {
+            max-height: 200px;
+        }
+        
+
+        #castelonoceu{
+            background-image: url(../img/castelo_no_ceu.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #castelonoceu:hover {
+            max-height: 200px;
+        }
+
+        #meuamigototoro{
+            background-image: url(../img/totoro.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #meuamigototoro:hover {
+            max-height: 200px;
+        }
+
+        #tumulodosvagalumes{
+            background-image: url(../img/o-tumulo-dos-pirilampos-justwatch-techtudo.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #tumulodosvagalumes:hover {
+            max-height: 200px;
+        }
+        #tumulodosvagalumes h1{
+            color: antiquewhite;
+        }
+
+        #kiki{
+            background-image: url(../img/O-servico-de-entregas-da-kiki.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #kiki:hover {
+            max-height: 200px;
+        }
+
+        #memoriasdeontem{
+            background-image: url(../img/memoriasdeontem.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #memoriasdeontem:hover {
+            max-height: 200px;
+        }
+
+        #porcorosso{
+            background-image: url(../img/porcorosso.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #porcorosso:hover {
+            max-height: 200px;
+        }
+        #eupossoouvirooceano{
+            background-image: url(../img/eu-posso-ouvir-o-oceano.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #eupossoouvirooceano:hover {
+            max-height: 200px;
+        }
+        #pompoko{
+            background-image: url(../img/pompoko-a-grande-batalha-dos-guaxinins.jpeg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #pompoko:hover {
+            max-height: 200px;
+        }
+
+        #sussurrosdocoracao{
+            background-image: url(../img/sussurros-do-coração-studio-ghibli-thumb.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #sussurrosdocoracao:hover {
+            max-height: 200px;
+        }
+
+        #princesamononoke{
+            background-image: url(../img/princess-mononoke.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #princesamononoke:hover {
+            max-height: 200px;
+        }
+
+        #meusvizinhosyamadas{
+            background-image: url(../img/vizinhos-yamadas.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #meusvizinhosyamadas:hover {
+            max-height: 200px;
+        }
+
+        #aviagemdechihiro{
+            background-image: url(../img/a-viagem-de-chihiro.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #aviagemdechihiro:hover {
+            max-height: 200px;
+        }
+        
+        #reinodosgatos{
+            background-image: url(../img/reinos-dos-gatos.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #reinodosgatos:hover {
+            max-height: 200px;
+        }
+
+        #casteloanimado{
+            background-image: url(../img/castelo-animado.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #casteloanimado:hover {
+            max-height: 200px;
+        }
+
+        #contosdeterramar{
+            background-image: url(../img/contos-de-terramar.png);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #contosdeterramar:hover {
+            max-height: 200px;
+        }
+
+        #ponyo{
+            background-image: url(../img/ponyo.png);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #ponyo:hover {
+            max-height: 200px;
+        }
+
+        #mundodospequeninos{
+            background-image: url(../img/o-mundo-dos-pequeninos.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #mundodospequeninos:hover {
+            max-height: 200px;
+        }
+
+        #colinakokuriko{
+            background-image: url(../img/da-colina-kokuriko.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #colinakokuriko:hover {
+            max-height: 200px;
+        }
+
+        #vidasaovento{
+            background-image: url(../img/vidas-ao-vento.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #vidasaovento:hover {
+            max-height: 200px;
+        }
+
+        #princesakaguya{
+            background-image: url(../img/o_conto-da-princesa-kaguya.webp);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #princesakaguya:hover {
+            max-height: 200px;
+        }
+
+        #h1-ghibli-kaguya{
+                display: inline-block;
+                background-color: rgba(0, 0, 0, 0.388);
+                color: rgb(255, 255, 255);
+                font-size: 40px;
+                margin-top: -10px;
+        }
+
+        #asmemoriasdemarnie{
+            background-image: url(../img/as-memorias-de-marnie.jpg);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #asmemoriasdemarnie:hover {
+            max-height: 200px;
+        }
+
+        #ayaeabruxa{
+            background-image: url(../img/Aya-e-a-Bruxa.jpg);
+            
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+      
+        #ayaeabruxa:hover {
+            max-height: 200px;
+        }
+        
+        #omeminoeagarca{
+            background-image: url(../img/o-menino-e-a-garca.jfif);
+            padding: 40px;
+            border-radius: 20px;
+            margin-top: 20px;
+            max-height: 20px;
+            overflow: hidden;
+            transition: max-height 0.5s ease;
+        }
+        #omeminoeagarca:hover {
+            max-height: 200px;
+        }
+        
+
+
+        /*NAUSICAA*/
+
+       
+

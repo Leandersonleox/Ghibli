@@ -1,0 +1,56 @@
+body{
+    background-image: url(../img/princess-mononoke.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    background-color: rgba(0, 0, 0, 0.376);
+    width: 850px;
+    height: 500px;
+    margin-top: 120px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    border-radius: 10px;
+    float: right;
+   
+
+}
+#logo{
+    width: 600px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-top: -30px;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+    
+}
+#sinopse{
+    font-size: 25px;
+}
+a{
+   text-decoration: none; 
+    color: rgb(4, 141, 141);
+}
+a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+a:active{
+    color: green;
+}
+
+#voltar{
+    color: rgb(255, 255, 255);
+}
+#netflix:hover{
+    color: red;
+    
+}
+#netflix:active{
+    color: green;
+}
